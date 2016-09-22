@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/angular2-validators.svg)](https://www.npmjs.com/package/angular2-validators)
 
 # Ng2 Validators
-A List Of validators for Angular 2 Forms based on [validator.js](https://github.com/chriso/validator.js)
+A List of validators for Angular 2 Forms based on [validator.js](https://github.com/chriso/validator.js)
 
 # Usage
 ## Install
